@@ -1,5 +1,13 @@
 [
   {
+    "key": "alt+f1",
+    "command": "editor.action.marker.next"
+  },
+  {
+    "key": "shift+alt+f1",
+    "command": "editor.action.marker.prev"
+  },
+  {
     "key": "ctrl+n",
     "command": "explorer.newFile",
     "when": "filesExplorerFocus"
